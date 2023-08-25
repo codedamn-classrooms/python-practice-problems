@@ -1,3 +1,3 @@
 terminals: ['pip3 install -r requirements.txt']
-tabs: ['accumulate.py']
+tabs: ['sum_of_multiples.py']
 run-button: python3 $$file
